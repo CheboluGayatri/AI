@@ -154,9 +154,7 @@ NumPy, Pandas, Matplotlib
 
 Clone the repository:
 
-git clone https://github.com/your-username/ml-projects.git
-cd ml-projects
-
+git clone [(https://github.com/CheboluGayatri/AI.git)]
 
 Install dependencies:
 
